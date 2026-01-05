@@ -29,9 +29,4 @@
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
----
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AbderrakibAmbari&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbderrakibAmbari&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbderrakibAmbari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
